@@ -28,6 +28,6 @@
 <div> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MarleneJiang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite" /> </div>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneJiang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> </div>
 <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneJiang" /> </div>
-<div><img src="https://wakatime.com/share/@5bfd81bc-9515-462b-a942-069791b283b7/b560ca6e-2233-439e-9e68-5985b1926471.svg"></div>
+<div><img src="https://wakatime.com/share/@5bfd81bc-9515-462b-a942-069791b283b7/36bd4301-d496-4452-b94c-bec6fed1b82c.svg"></div>
 
 ![:MarleneJiang](https://count.getloli.com/get/@:MarleneJiang)
