@@ -8,7 +8,6 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg" alt="python" /></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/gopher.svg" alt="go" /></code>
 
 
 
